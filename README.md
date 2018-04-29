@@ -35,3 +35,7 @@ For example, instead of having classes for each GPA calculation method, we could
 ![UML Class Diagram]
 
 [UML Class Diagram]: uml.png
+
+### License
+
+MIT
